@@ -18,7 +18,7 @@ The dashboard is where the user will be directed to once they are logged in, and
 ![](/ux-design/Dashboard.png)
 
 #### Profile
-On their profile, users will be able to view all of their account details (name, birthdate) and view any past posts they have made. Additionally, they can create a new post.
+On their profile, users will be able to view all of their account details (name, birthdate, friends list) and view any past posts they have made. Additionally, they can create a new post.
 
 ![](/ux-design/Profile.png)
 
