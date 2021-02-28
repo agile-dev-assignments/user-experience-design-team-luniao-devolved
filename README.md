@@ -26,3 +26,8 @@ On their profile, users will be able to view all of their account details (name,
 Viewers can opt to edit their profile, which will allow them to update their email, change their picture, or change their password. They can also update their preferences here by clicking the "Preferences" button, which will take them to their preferences screen. 
 
 ![](/ux-design/EditProfile.png)
+
+#### Friends Page
+If the user clicks the "Friends" button on their profile, they can see the complete list of their friends. 
+
+![](/ux-design/Friends.png)
