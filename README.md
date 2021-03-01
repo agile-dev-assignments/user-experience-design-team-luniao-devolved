@@ -1,5 +1,9 @@
 ## Travel Wise User Experience Design
 
+
+### App Map
+![](/ux-design/AppMap.png)
+
 ### Wireframes
 
 #### Login
