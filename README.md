@@ -4,6 +4,7 @@
 ### App Map
 ![](/ux-design/AppMap.png)
 
+
 ### Wireframes
 
 #### Login
@@ -26,12 +27,45 @@ On their profile, users will be able to view all of their account details (name,
 
 ![](/ux-design/Profile.png)
 
+#### Preferences
+***TO DO
+
+#### Friends
+If the user clicks the "Friends" button on their profile, they can see the complete list of their friends. 
+
+![](/ux-design/Friends.png)
+
 #### Edit Profile
 Viewers can opt to edit their profile, which will allow them to update their email, change their picture, or change their password. They can also update their preferences here by clicking the "Preferences" button, which will take them to their preferences screen. 
 
 ![](/ux-design/EditProfile.png)
 
-#### Friends Page
-If the user clicks the "Friends" button on their profile, they can see the complete list of their friends. 
+#### Create Trip
+This is the main page for the user who want to create a new trip. The user has the option to add new friends, create a poll, or ask for a recommendation. Below is the current to-do list of what the user needs to do before the itinerary is completed. The user can easily manage the list by checking the box if the task is completed.
 
-![](/ux-design/Friends.png)
+![](/ux-design/CreateTrip.png)
+
+#### Add Friends
+The user can easily add friends by finding their names registered onto the app. The user can then assign the administrative level based on the occasion (i.e casual trip or business trip). If the user wants friends to have no access to editing the trip, the user can assign them as attendees. If the user wants friends to also edit, the user assigns them as admins. Lastly, if the user no longer wants to be the owner, the user can give away the position and become an admin.
+
+![](/ux-design/AddFriends.png)
+
+#### Create Poll
+If the user already has some options (i.e flight tickets, hotels), the user can create a poll so that the group can vote. The user needs to write the name of the poll and the end date and also search specific name or an id (i.e flight number, hotel name) so that the group does not get confused. Once the names are added, the user can create a poll.
+
+![](/ux-design/CreatePoll.png)
+
+#### Ask for Rec
+If the user does not have much idea of where/when/how to travel, the user can ask for recommendations. The user is asked to provide the topic the user needs help with, budget limit, and the date so that the data can be extracted specifically. After the user types in all the required information, the user is given several options to choose from and can select one to add onto the checklist.
+
+![](/ux-design/AskForRec.png)
+
+
+#### Current Trip
+*** TO DO
+
+#### Full itinerary
+**** TO DO
+
+#### Past Trips
+**** TO DO
