@@ -28,7 +28,7 @@ On their profile, users will be able to view all of their account details (name,
 ![](/ux-design/Profile.png)
 
 #### Preferences
-This screen contains the preferences for the user. Right now, we've included the preferences for units (imperial or metric), trip budget, and notifications. More preferences will be added as we build our application.
+This screen contains the preferences for the user's current trip. This snapshot includes a few important factors that determine the recommendations we provide. These factors include budget, departure time, duration, transport, stay type and purpose. More important factors could be added at a later time. 
 
 ![](/ux-design/Preferences.png)
 
