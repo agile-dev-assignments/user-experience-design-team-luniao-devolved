@@ -18,7 +18,7 @@ If the user opts to create a new account, we will ask for their name, email, bir
 ![](/ux-design/Signup.png)
 
 #### Dashboard
-The dashboard is where the user will be directed to once they are logged in, and is a home base for all of their adventures. The top of the screen will show any friend activity. Additionally, this is where the user will see the options to create a new trip, view their past and current trips, or view their profile. 
+The dashboard is where the user will be directed to once they are logged in, and is a home base for all of their adventures. The top of the screen will show any friend activity. Additionally, this is where the user will see the options to create a new trip, view their past and current trips, or view their profile.
 
 ![](/ux-design/Dashboard.png)
 
@@ -31,12 +31,12 @@ On their profile, users will be able to view all of their account details (name,
 ***TO DO
 
 #### Friends
-If the user clicks the "Friends" button on their profile, they can see the complete list of their friends. 
+If the user clicks the "Friends" button on their profile, they can see the complete list of their friends.
 
 ![](/ux-design/Friends.png)
 
 #### Edit Profile
-Viewers can opt to edit their profile, which will allow them to update their email, change their picture, or change their password. They can also update their preferences here by clicking the "Preferences" button, which will take them to their preferences screen. 
+Viewers can opt to edit their profile, which will allow them to update their email, change their picture, or change their password. They can also update their preferences here by clicking the "Preferences" button, which will take them to their preferences screen.
 
 ![](/ux-design/EditProfile.png)
 
@@ -60,9 +60,10 @@ If the user does not have much idea of where/when/how to travel, the user can as
 
 ![](/ux-design/AskForRec.png)
 
-
 #### Current Trip
-*** TO DO
+This screen will display details and information of the current trip, including the friends taking part in this trip and the current to-do list. A user can also navigate to the full itinerary, polls and recommendations linked to this specific trip.
+
+![](/ux-design/CurrentTrip.png)
 
 #### Full itinerary
 **** TO DO
