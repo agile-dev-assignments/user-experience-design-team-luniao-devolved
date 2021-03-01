@@ -28,7 +28,9 @@ On their profile, users will be able to view all of their account details (name,
 ![](/ux-design/Profile.png)
 
 #### Preferences
-***TO DO
+This screen contains the preferences for the user. Right now, we've included the preferences for units (imperial or metric), trip budget, and notifications. More preferences will be added as we build our application.
+
+![](/ux-design/Preferences.png)
 
 #### Friends
 If the user clicks the "Friends" button on their profile, they can see the complete list of their friends.
