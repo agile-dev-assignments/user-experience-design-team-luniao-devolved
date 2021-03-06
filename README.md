@@ -8,7 +8,7 @@
 ### Wireframes
 
 #### Login
-This is the very first screen users will encounter when opening the app for the first time. It simply asks for the user's email and password, and allows for them to press the login button. If the user does not already have an account, then they can choose to sign up.
+This is the very first screen users will encounter when opening the app for the first time. It simply asks for the user's email and password, and allows for them to press the login button. If the user does not already have an account, then they can choose to sign up. Additionally, there will be an option to continue as a guest without registering; they will be redirected to an empty dashboard and the only feature available to them without signing up will be to plan a new trip.
 
 ![](/ux-design/Login.png)
 
@@ -21,6 +21,13 @@ If the user opts to create a new account, we will ask for their name, email, bir
 The dashboard is where the user will be directed to once they are logged in, and is a home base for all of their adventures. The top of the screen will show any friend activity. Additionally, this is where the user will see the options to create a new trip, view their past and current trips, or view their profile.
 
 ![](/ux-design/Dashboard.png)
+
+#### Guest Dashboard
+This screen is the same as the normal dashboard, except it is blank and only allows for the guest to access the New Trip feature. When the guest attempts to access any other feature, a dynamic pop-up is displayed that prompts the guest to register for full access to the app. 
+
+![](/ux-design/GuestDashboard.png)
+
+![](/ux-design/GuestDashboardPrompt.png)
 
 #### Profile
 On their profile, users will be able to view all of their account details (name, birthdate, friends list) and view any past posts they have made. Additionally, they can create a new post.
