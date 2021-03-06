@@ -37,6 +37,11 @@ If the user clicks the "Friends" button on their profile, they can see the compl
 
 ![](/ux-design/Friends.png)
 
+#### New Post
+If the user wants to create a new post, the user can write and add post. Then, the user's friends are able to see the post on their profiles.
+
+![](/ux-design/NewPost.png)
+
 #### Edit Profile
 Viewers can opt to edit their profile, which will allow them to update their email, change their picture, or change their password. They can also update their preferences here by clicking the "Preferences" button, which will take them to their preferences screen.
 
