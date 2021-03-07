@@ -1,7 +1,7 @@
 ## Travel Wise User Experience Design
 
 ### Prototype
-Below is the link to view the prototype for Travel Wise.
+Below is the link to view the prototype for Travel Wise. \
 Link to Live Embed: https://invis.io/G910D5W4YZBR
 
 ### App Map
