@@ -80,9 +80,9 @@ This screen will display details and information of the current trip, including 
 ![](/ux-design/CurrentTrip.png)
 
 #### Full itinerary
-This screen allows you to see your itinerary by date. A user can see more details about each date if they navigate to that date from this screen.
+This screen displays the trip itenerary. This includes things like transportation and accomodation. It also includes any experiences you have planned, like sightseeing or a show. 
 
-![](/ux-design/Fullitinerary.png)
+![](/ux-design/Itinerary.png)
 
 #### Past Trips
 This screen allows a user to scroll through their past trips and navigate to screens with all the information and details of that trip.
