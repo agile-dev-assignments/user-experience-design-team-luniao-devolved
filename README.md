@@ -57,7 +57,7 @@ Viewers can opt to edit their profile, which will allow them to update their ema
 ![](/ux-design/EditProfile.png)
 
 #### Create Trip
-This is the main page for the user who want to create a new trip. The user has the option to add new friends, create a poll, or ask for a recommendation. Below is the current to-do list of what the user needs to do before the itinerary is completed. The user can easily manage the list by checking the box if the task is completed.
+This is the main page for the user who want to create a new trip. The user has the option to add new friends, create a poll, or ask for a recommendation. Below is the current to-do list of what the user needs to do before the itinerary is completed. The user can easily manage the list by checking the box if the task is completed. The same page is created for Guest (CreateTripGuest.png) so that the Guest can be directed to Guest Dashboard when clicked.
 
 ![](/ux-design/CreateTrip.png)
 
